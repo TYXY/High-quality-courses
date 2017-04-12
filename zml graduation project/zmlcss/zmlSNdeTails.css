@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.zml-banner{
+    width:964px;
+    height:auto;
+    margin: 0 auto;
+}
+.zml-banner img{
+    width:100%;
+    height:auto;
+    display: block;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+.zml-header{
+    width:964px;
+    height:41px;
+    text-align: center;
+    line-height: 41px;
+    margin: 10px auto 0;
+    border-bottom: 1px dashed #ccc;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.zml-header h3{
+    float: left;
+    font-weight: normal;
+}
+.zml-header h6{
+    float: right;
+}
+.zml-header h6 a:hover{
+    color: #cc0000;
+}
+.zml-title{
+    width:964px;
+    height: 48px;
+    color: #06f;
+    margin: 30px auto 10px;
+    text-align: center;
+    line-height: 48px;
+}
+.zml-total-t{
+    width:964px;
+    height: 56px;
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+}
+.zml-total-t .zml-hour{
+    margin-right: 10px;
+}
+.zml-total-t .zml-author{
+    margin-right: 20px;
+}
+.zml-article1{
+    width:964px;
+    height:auto;
+    margin: 10px auto;
+    font-size: 13px;
+    color: #666;
+    text-indent: 26px;
+}
+.zml-article{
+    text-align: right;
+}
+.zmlDetailsN{
+    display: block;
+    margin: 0 auto;
+    width:502px;
+}
